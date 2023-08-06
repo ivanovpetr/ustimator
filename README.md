@@ -23,7 +23,7 @@ ustimator pair estimate 0x0d4a11d5eeaac28ec3f61d100daf4d40471f1852 0xdAC17F958D2
  ```
 
 ### Ethereum RPC endpoint
-In may need to specify ethereum RPC url to connect to the network
+You may need to specify ethereum RPC url to connect to the network
 
 For this purpose use flag `--eth-rpc`
 
